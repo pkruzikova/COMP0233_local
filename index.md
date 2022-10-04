@@ -1,3 +1,3 @@
 some words
-\n some more words
+some more words
 last words
